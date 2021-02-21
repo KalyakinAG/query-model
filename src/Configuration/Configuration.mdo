@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="29a12591-54c1-4e2e-9d42-3b95f248cf87">
+  <name>МодельЗапроса</name>
+  <synonym>
+    <key>ru</key>
+    <value>Модель запроса</value>
+  </synonym>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:ConfigurationExtension">
+    <defaultRunMode>Checked</defaultRunMode>
+    <interfaceCompatibilityMode>Checked</interfaceCompatibilityMode>
+  </extension>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="81521b5e-3959-4846-a348-307c96b1d21e"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="7c3af5a4-88e8-4ea6-adb5-3e3348c7ffcd"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="b39bc25a-dd7f-4cee-b129-c1c6f43b196f"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="853d32ac-4e49-410c-adb1-e80166f9a5c1"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="7191b708-f1c7-4d68-be2a-f99cec73928b"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="d100d330-6208-4cfe-ba98-85f93dfafb46"/>
+  <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="ab08edd6-27d1-4ce3-9483-79af802e50f9"/>
+  <keepMappingToExtendedConfigurationObjectsByIDs>true</keepMappingToExtendedConfigurationObjectsByIDs>
+  <namePrefix>мз_</namePrefix>
+  <configurationExtensionCompatibilityMode>8.3.18</configurationExtensionCompatibilityMode>
+  <configurationExtensionPurpose>Customization</configurationExtensionPurpose>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <scriptVariant>Russian</scriptVariant>
+  <defaultLanguage>Language.Русский</defaultLanguage>
+  <interfaceCompatibilityMode>TaxiEnableVersion8_2</interfaceCompatibilityMode>
+  <compatibilityMode>8.3.18</compatibilityMode>
+  <languages uuid="41bc4f23-6e05-47c5-811f-11e6de4606a8">
+    <name>Русский</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:LanguageExtension">
+      <languageCode>Checked</languageCode>
+    </extension>
+    <languageCode>ru</languageCode>
+  </languages>
+  <subsystems>Subsystem.МодельЗапроса</subsystems>
+  <commonModules>CommonModule.РаботаСоСхемойЗапроса</commonModules>
+  <commonModules>CommonModule.ОбщийКлиентСервер</commonModules>
+  <commonModules>CommonModule.Общий</commonModules>
+  <dataProcessors>DataProcessor.МодельЗапроса</dataProcessors>
+</mdclass:Configuration>
