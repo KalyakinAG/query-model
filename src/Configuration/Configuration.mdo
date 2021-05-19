@@ -35,8 +35,8 @@
     <languageCode>ru</languageCode>
   </languages>
   <subsystems>Subsystem.МодельЗапроса</subsystems>
-  <commonModules>CommonModule.РаботаСоСхемойЗапроса</commonModules>
   <commonModules>CommonModule.ОбщийКлиентСервер</commonModules>
+  <commonModules>CommonModule.РаботаСоСхемойЗапроса</commonModules>
   <commonModules>CommonModule.Общий</commonModules>
   <dataProcessors>DataProcessor.МодельЗапроса</dataProcessors>
 </mdclass:Configuration>
