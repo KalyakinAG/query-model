@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="4ae20a64-7f06-4430-b96f-c0fb520d7e7f">
+<mdclass:CommonModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="967d0906-9a50-4933-8714-311de6c00905" extendedConfigurationObject="f4f6f87a-b329-43ea-a016-3dab282559d1">
   <name>Общий</name>
-  <synonym>
-    <key>ru</key>
-    <value>Общий</value>
-  </synonym>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:CommonModuleExtension">
+    <extendedConfigurationObject>Checked</extendedConfigurationObject>
+    <global>Checked</global>
+    <clientManagedApplication>Checked</clientManagedApplication>
+    <server>Checked</server>
+    <externalConnection>Checked</externalConnection>
+    <serverCall>Checked</serverCall>
+    <clientOrdinaryApplication>Checked</clientOrdinaryApplication>
+  </extension>
   <server>true</server>
   <externalConnection>true</externalConnection>
   <clientOrdinaryApplication>true</clientOrdinaryApplication>
