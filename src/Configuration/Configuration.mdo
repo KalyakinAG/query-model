@@ -22,10 +22,8 @@
   <configurationExtensionPurpose>Customization</configurationExtensionPurpose>
   <defaultRunMode>ManagedApplication</defaultRunMode>
   <scriptVariant>Russian</scriptVariant>
-  <version>1.0.9</version>
-  <defaultLanguage>Language.Русский</defaultLanguage>
+  <version>1.0.10</version>
   <interfaceCompatibilityMode>TaxiEnableVersion8_2</interfaceCompatibilityMode>
-  <compatibilityMode>8.3.18</compatibilityMode>
   <languages uuid="41bc4f23-6e05-47c5-811f-11e6de4606a8">
     <name>Русский</name>
     <objectBelonging>Adopted</objectBelonging>
