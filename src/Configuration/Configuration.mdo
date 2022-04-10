@@ -8,7 +8,6 @@
   <objectBelonging>Adopted</objectBelonging>
   <extension xsi:type="mdclassExtension:ConfigurationExtension">
     <defaultRunMode>Checked</defaultRunMode>
-    <interfaceCompatibilityMode>Checked</interfaceCompatibilityMode>
   </extension>
   <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="81521b5e-3959-4846-a348-307c96b1d21e"/>
   <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="7c3af5a4-88e8-4ea6-adb5-3e3348c7ffcd"/>
@@ -18,12 +17,11 @@
   <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="d100d330-6208-4cfe-ba98-85f93dfafb46"/>
   <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="ab08edd6-27d1-4ce3-9483-79af802e50f9"/>
   <namePrefix>мз_</namePrefix>
-  <configurationExtensionCompatibilityMode>8.3.18</configurationExtensionCompatibilityMode>
+  <configurationExtensionCompatibilityMode>8.3.14</configurationExtensionCompatibilityMode>
   <configurationExtensionPurpose>Customization</configurationExtensionPurpose>
   <defaultRunMode>ManagedApplication</defaultRunMode>
   <scriptVariant>Russian</scriptVariant>
   <version>1.0.12</version>
-  <interfaceCompatibilityMode>TaxiEnableVersion8_2</interfaceCompatibilityMode>
   <languages uuid="41bc4f23-6e05-47c5-811f-11e6de4606a8">
     <name>Русский</name>
     <objectBelonging>Adopted</objectBelonging>
