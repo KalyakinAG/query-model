@@ -6,5 +6,7 @@
     <value>Модель запроса</value>
   </synonym>
   <includeHelpInContents>true</includeHelpInContents>
+  <content>CommonModule.РаботаСоСхемойЗапроса</content>
+  <content>DataProcessor.КонструкторМоделиЗапроса</content>
   <content>DataProcessor.МодельЗапроса</content>
 </mdclass:Subsystem>
