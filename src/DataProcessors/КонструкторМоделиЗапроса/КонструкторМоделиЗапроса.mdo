@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DataProcessor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="b543c9a6-5d3c-468d-99d3-54cca167a8ea">
+  <producedTypes>
+    <objectType typeId="22234a96-ec22-4f81-a2fb-b50c80f81144" valueTypeId="c7d61486-f498-4286-aced-99793553f3dd"/>
+    <managerType typeId="df8380b2-8379-4f64-8d44-48f22164de05" valueTypeId="45f62d3a-fade-4ae3-b267-8cc85fe885d4"/>
+  </producedTypes>
+  <name>КонструкторМоделиЗапроса</name>
+  <synonym>
+    <key>ru</key>
+    <value>Конструктор модели запроса</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <defaultForm>DataProcessor.КонструкторМоделиЗапроса.Form.Форма</defaultForm>
+  <attributes uuid="03e13002-c5cd-4d64-b995-0f5cf650bb8c">
+    <name>ТекстЗапроса</name>
+    <synonym>
+      <key>ru</key>
+      <value>Текст запроса</value>
+    </synonym>
+    <type>
+      <types>TextDocument</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </attributes>
+  <attributes uuid="831267ed-5325-4162-8929-f78b749f9e26">
+    <name>ТекстМодели</name>
+    <synonym>
+      <key>ru</key>
+      <value>Текст модели</value>
+    </synonym>
+    <type>
+      <types>TextDocument</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </attributes>
+  <forms uuid="d91c3426-80d0-4eb4-a041-c6e24ac0b9fd">
+    <name>Форма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+</mdclass:DataProcessor>

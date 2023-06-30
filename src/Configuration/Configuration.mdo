@@ -35,4 +35,5 @@
   <commonModules>CommonModule.ОбщийКлиентСервер</commonModules>
   <commonModules>CommonModule.РаботаСоСхемойЗапроса</commonModules>
   <dataProcessors>DataProcessor.МодельЗапроса</dataProcessors>
+  <dataProcessors>DataProcessor.КонструкторМоделиЗапроса</dataProcessors>
 </mdclass:Configuration>
