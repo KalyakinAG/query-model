@@ -22,7 +22,6 @@
   <defaultRunMode>ManagedApplication</defaultRunMode>
   <scriptVariant>Russian</scriptVariant>
   <version>1.0.12</version>
-  <compatibilityMode>8.3.22</compatibilityMode>
   <languages uuid="41bc4f23-6e05-47c5-811f-11e6de4606a8">
     <name>Русский</name>
     <objectBelonging>Adopted</objectBelonging>
@@ -35,6 +34,6 @@
   <commonModules>CommonModule.Общий</commonModules>
   <commonModules>CommonModule.ОбщийКлиентСервер</commonModules>
   <commonModules>CommonModule.РаботаСоСхемойЗапроса</commonModules>
-  <dataProcessors>DataProcessor.МодельЗапроса</dataProcessors>
   <dataProcessors>DataProcessor.КонструкторМоделиЗапроса</dataProcessors>
+  <dataProcessors>DataProcessor.МодельЗапроса</dataProcessors>
 </mdclass:Configuration>
