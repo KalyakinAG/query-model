@@ -1,6 +1,7 @@
 # IDE
 /.metadata/
 /.settings/
+/.obsidian/
 
 # Binary
 bin
