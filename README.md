@@ -102,10 +102,10 @@
 - Снять признак объединения с общих свойств
 - Установить режим объединения с приоритетом в файле
 - Отметить объекты подсистем:
-	- KASSL->ОбщегоНазначения
-	- KASSL->Модели->МодельЗапроса
-	- KASSL->Конструкторы->КонструкторМодельЗапроса
-	- KASSL->АТДМассив
+	- KASSL->[ОбщегоНазначения](https://github.com/KalyakinAG/common)
+	- KASSL->Модели->[МодельЗапроса](https://github.com/KalyakinAG/query-model)
+	- KASSL->Конструкторы->[КонструкторМодельЗапроса](https://github.com/KalyakinAG/query-model-constructor)
+	- KASSL->[АТДМассив](https://github.com/KalyakinAG/adt-array)
 
 ## Зависимости
 
