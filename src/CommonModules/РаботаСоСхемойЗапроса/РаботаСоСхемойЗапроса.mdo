@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="ce68a9dc-f369-47ae-86ae-0d9fceed5707">
+<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="ecee86de-fa8e-4d40-b1fa-e6cbc4b6af0d">
   <name>РаботаСоСхемойЗапроса</name>
   <synonym>
     <key>ru</key>

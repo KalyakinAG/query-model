@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mdclass:DataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="586b775f-c840-4b11-a700-091fade4b5a7">
+<mdclass:DataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="f457346e-085d-4c1c-b022-ef54ab8788a0">
   <producedTypes>
-    <objectType typeId="186cc151-b614-46d5-9342-00787f95c499" valueTypeId="accf43e7-9c99-490e-b1c2-f609f306acad"/>
-    <managerType typeId="731d2e6f-05dc-4c74-94df-05b59381cced" valueTypeId="96db3b12-b7fc-49ee-927e-304fd5f00766"/>
+    <objectType typeId="131d1b84-1b52-4bfb-b65e-bb480c7e6289" valueTypeId="22c3b243-d013-43f8-bd81-a0a9594db3c2"/>
+    <managerType typeId="f54113aa-d76b-42cd-98a8-92446a45adc9" valueTypeId="68eeae6a-1023-4194-9f4c-095dfa6e3c79"/>
   </producedTypes>
   <name>МодельЗапроса</name>
   <synonym>
@@ -11,7 +11,7 @@
   </synonym>
   <useStandardCommands>true</useStandardCommands>
   <defaultForm>DataProcessor.МодельЗапроса.Form.Форма</defaultForm>
-  <forms uuid="d73543d3-ef34-486a-836d-52d5cb45fed2">
+  <forms uuid="5b9455c0-b9a5-4daf-94d9-0b7d2a9f0772">
     <name>Форма</name>
     <synonym>
       <key>ru</key>
