@@ -101,10 +101,10 @@
 Объединить с файлом конфигурации из Демо-базы к статье [Модель запроса](https://infostart.ru/1c/articles/1390402/):
 - Установить режим объединения с приоритетом в файле
 - Отметить по подсистемам файла:
-	- KASSL->[ОбщегоНазначения](https://github.com/KalyakinAG/common)
-	- KASSL->Модели->[МодельЗапроса](https://github.com/KalyakinAG/query-model)
-	- KASSL->Конструкторы->[КонструкторМодельЗапроса](https://github.com/KalyakinAG/query-model-constructor)
-	- KASSL->[АТДМассив](https://github.com/KalyakinAG/adt-array)
+	- KASL->[ОбщегоНазначения](https://github.com/KalyakinAG/common)
+	- KASL->Модели->[МодельЗапроса](https://github.com/KalyakinAG/query-model)
+	- KASL->Конструкторы->[КонструкторМодельЗапроса](https://github.com/KalyakinAG/query-model-constructor)
+	- KASL->[АТДМассив](https://github.com/KalyakinAG/adt-array)
 
 ## Зависимости
 
