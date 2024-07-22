@@ -109,5 +109,5 @@
 ## Зависимости
 
 - БСП (работает с версией 3 и выше)
-- Общие модули из подсистемы [KASSL->ОбщегоНазначения](https://github.com/KalyakinAG/common)
+- Общие модули из подсистемы [KASL->ОбщегоНазначения](https://github.com/KalyakinAG/common)
 - Подсистема [АТДМассив](https://github.com/KalyakinAG/adt-array)
