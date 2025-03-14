@@ -1,6 +1,6 @@
 # Объектная модель работы со схемой запроса
 
-[![OpenYellow](https://img.shields.io/endpoint?url=https://openyellow.neocities.org/badges/2/340940374.json)](https://openyellow.notion.site/openyellow/24727888daa641af95514b46bee4d6f2?p=d6c0fe70d0b541b3ad83127c3d1c402f&amp;pm=s) ![Версия](https://img.shields.io/badge/Версия_1С-8.3.24-yellow)
+[![OpenYellow](https://img.shields.io/endpoint?url=https://openyellow.neocities.org/badges/2/340940374.json)](https://openyellow.notion.site/openyellow/24727888daa641af95514b46bee4d6f2?p=d6c0fe70d0b541b3ad83127c3d1c402f&amp;pm=s) ![Версия](https://img.shields.io/badge/Версия_1С-8.3.25-yellow)
 
 Объектная модель построена на использовании внешнего интерфейса библиотеки ["Работа со схемой запроса"](https://infostart.ru/1c/articles/811832/). Модель позволяет скрыть переменные контекста работы с библиотекой и использовать вызов методов в стиле текучего интерфейса.
 
