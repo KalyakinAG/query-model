@@ -35,6 +35,7 @@
     </extension>
     <languageCode>ru</languageCode>
   </languages>
+  <subsystems>Subsystem.KASL</subsystems>
   <commonModules>CommonModule.РаботаСоСхемойЗапроса</commonModules>
   <dataProcessors>DataProcessor.МодельЗапроса</dataProcessors>
 </mdclass:Configuration>
