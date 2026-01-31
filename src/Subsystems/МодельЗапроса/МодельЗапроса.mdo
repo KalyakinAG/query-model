@@ -8,5 +8,4 @@
   <includeHelpInContents>true</includeHelpInContents>
   <content>CommonModule.РаботаСоСхемойЗапроса</content>
   <content>DataProcessor.МодельЗапроса</content>
-  <parentSubsystem>Subsystem.KASL.Subsystem.Модели</parentSubsystem>
 </mdclass:Subsystem>

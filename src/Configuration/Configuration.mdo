@@ -16,13 +16,13 @@
   <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="7191b708-f1c7-4d68-be2a-f99cec73928b"/>
   <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="d100d330-6208-4cfe-ba98-85f93dfafb46"/>
   <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="ab08edd6-27d1-4ce3-9483-79af802e50f9"/>
-  <namePrefix>KASL</namePrefix>
+  <namePrefix>БКА_</namePrefix>
   <configurationExtensionCompatibilityMode>8.3.27</configurationExtensionCompatibilityMode>
   <configurationExtensionPurpose>AddOn</configurationExtensionPurpose>
   <defaultRunMode>ManagedApplication</defaultRunMode>
   <scriptVariant>Russian</scriptVariant>
   <vendor>Калякин Андрей</vendor>
-  <version>1.0.14.3</version>
+  <version>1.2.0.1</version>
   <briefInformation>
     <key>ru</key>
     <value>https://infostart.ru/1c/articles/1390402/</value>
@@ -35,7 +35,7 @@
     </extension>
     <languageCode>ru</languageCode>
   </languages>
-  <subsystems>Subsystem.KASL</subsystems>
+  <subsystems>Subsystem.МодельЗапроса</subsystems>
   <commonModules>CommonModule.РаботаСоСхемойЗапроса</commonModules>
   <dataProcessors>DataProcessor.МодельЗапроса</dataProcessors>
 </mdclass:Configuration>
