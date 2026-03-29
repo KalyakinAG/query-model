@@ -22,7 +22,7 @@
   <defaultRunMode>ManagedApplication</defaultRunMode>
   <scriptVariant>Russian</scriptVariant>
   <vendor>Калякин Андрей</vendor>
-  <version>1.2.0.2</version>
+  <version>2.0.0.2</version>
   <briefInformation>
     <key>ru</key>
     <value>https://infostart.ru/1c/articles/1390402/</value>
@@ -36,6 +36,12 @@
     <languageCode>ru</languageCode>
   </languages>
   <subsystems>Subsystem.МодельЗапроса</subsystems>
+  <subsystems>Subsystem.Компайлеры</subsystems>
   <commonModules>CommonModule.РаботаСоСхемойЗапроса</commonModules>
+  <commonModules>CommonModule.РаботаСМодельюЗапроса</commonModules>
+  <dataProcessors>DataProcessor.МодельЗапроса_1_2</dataProcessors>
   <dataProcessors>DataProcessor.МодельЗапроса</dataProcessors>
+  <dataProcessors>DataProcessor.ТекстЗапросаВМодельЗапроса</dataProcessors>
+  <dataProcessors>DataProcessor.ТекстЗапросаВРаботуСМодельюЗапроса</dataProcessors>
+  <dataProcessors>DataProcessor.ТекстЗапросаВРаботуСоСхемойЗапроса</dataProcessors>
 </mdclass:Configuration>

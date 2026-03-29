@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="dae4466e-49e0-46a4-b617-25d6f07c1881">
+  <name>Компайлеры</name>
+  <synonym>
+    <key>ru</key>
+    <value>Компайлеры</value>
+  </synonym>
+  <includeHelpInContents>true</includeHelpInContents>
+  <content>DataProcessor.ТекстЗапросаВМодельЗапроса</content>
+  <content>DataProcessor.ТекстЗапросаВРаботуСМодельюЗапроса</content>
+  <content>DataProcessor.ТекстЗапросаВРаботуСоСхемойЗапроса</content>
+</mdclass:Subsystem>

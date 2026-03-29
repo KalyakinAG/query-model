@@ -7,5 +7,5 @@
   </synonym>
   <includeHelpInContents>true</includeHelpInContents>
   <content>CommonModule.РаботаСоСхемойЗапроса</content>
-  <content>DataProcessor.МодельЗапроса</content>
+  <content>DataProcessor.МодельЗапроса_1_2</content>
 </mdclass:Subsystem>

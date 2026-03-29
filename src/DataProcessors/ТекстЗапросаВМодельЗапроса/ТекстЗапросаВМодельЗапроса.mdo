@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="3872a012-71c0-458d-8514-e0809ec38695">
+  <producedTypes>
+    <objectType typeId="c36dcadf-f204-410f-a5cc-a4061ed322ed" valueTypeId="dcb005fd-4547-46ea-93bf-673164703d95"/>
+    <managerType typeId="cd7139b5-1bb5-4aa3-adaf-e9b84fa08131" valueTypeId="bac3ae0a-993b-4134-af1a-37d430ef04d1"/>
+  </producedTypes>
+  <name>ТекстЗапросаВМодельЗапроса</name>
+  <synonym>
+    <key>ru</key>
+    <value>Текст запроса в модель запроса</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+</mdclass:DataProcessor>
