@@ -1,6 +1,6 @@
 # Объектная модель работы со схемой запроса
 
-![Версия](https://img.shields.io/badge/Версия_1С-8.3.27-yellow)
+[![OpenYellow](https://openyellow.openintegrations.dev/data/badges/340940374.svg)](https://openyellow.org/grid?filter=top&repo=340940374)![Версия](https://img.shields.io/badge/Версия_1С-8.3.27-yellow)
 
 Объектная модель работы со схемой запроса. Модель позволяет скрыть переменные контекста работы с библиотекой и использовать вызов методов в стиле текучего интерфейса.
 
