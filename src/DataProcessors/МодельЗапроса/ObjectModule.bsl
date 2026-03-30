@@ -1,7 +1,7 @@
 //  Подсистема "Модель запроса"
 //	Автор: Калякин Андрей Г.
 //  https://github.com/KalyakinAG/query-model
-//  https://infostart.ru/1c/articles/1390402/
+//  https://infostart.ru/1c/articles/2639581/
 //@skip-check object-module-export-variable
 
 #Область ОписаниеПеременных
