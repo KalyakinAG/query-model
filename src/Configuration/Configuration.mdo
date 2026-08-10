@@ -37,8 +37,8 @@
   </languages>
   <subsystems>Subsystem.МодельЗапроса</subsystems>
   <subsystems>Subsystem.Компайлеры</subsystems>
-  <commonModules>CommonModule.РаботаСоСхемойЗапроса</commonModules>
   <commonModules>CommonModule.РаботаСМодельюЗапроса</commonModules>
+  <commonModules>CommonModule.РаботаСоСхемойЗапроса</commonModules>
   <dataProcessors>DataProcessor.МодельЗапроса_1_2</dataProcessors>
   <dataProcessors>DataProcessor.МодельЗапроса</dataProcessors>
   <dataProcessors>DataProcessor.ТекстЗапросаВМодельЗапроса</dataProcessors>
